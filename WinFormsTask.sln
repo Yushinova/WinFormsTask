@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsTask", "WinFormsTask\WinFormsTask.csproj", "{3CAEF5B9-72C3-413B-BA11-1BD9DAA537CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CAEF5B9-72C3-413B-BA11-1BD9DAA537CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CAEF5B9-72C3-413B-BA11-1BD9DAA537CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CAEF5B9-72C3-413B-BA11-1BD9DAA537CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CAEF5B9-72C3-413B-BA11-1BD9DAA537CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20EE0AFE-B71A-4D0E-B8B2-1E5EB7CCBA22}
+	EndGlobalSection
+EndGlobal
